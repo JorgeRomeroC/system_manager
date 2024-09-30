@@ -38,3 +38,5 @@ CK_EDITOR_5_UPLOAD_FILE_VIEW_NAME = "custom_upload_file"
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+ROOT_URLCONF = 'system_manager.urls'
