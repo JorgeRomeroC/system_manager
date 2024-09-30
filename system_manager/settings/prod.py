@@ -1,0 +1,1 @@
+ROOT_URLCONF = 'system_manager.urls'
