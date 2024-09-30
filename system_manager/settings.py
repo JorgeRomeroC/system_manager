@@ -134,7 +134,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
 
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*','https://systemmanager-production.up.railway.app/']
 
